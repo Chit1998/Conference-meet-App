@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calling App</string>
+    <string name="login">LogIn</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="hint">000000</string>
+    <string name="verify">Verify</string>
+    <string name="full_name">Full name</string>
+    <string name="email_address">Email address</string>
+    <string name="username">Username</string>
+    <string name="save">Save</string>
+    <string name="default_notification_channel_id">calling App</string>
+    <string name="profile">Profile</string>
+    <string name="log_out">Log Out</string>
+</resources>
